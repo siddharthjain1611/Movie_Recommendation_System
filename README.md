@@ -36,9 +36,9 @@ Two approaches were tried to do matrix factorisation, the low rank method is ver
 
 ## Deep Learning Methods
 One popular recommender systems approach is called Matrix Factorisation. It works on the principle that we can learn a low-dimensional representation (embedding) of user and movie. For example, for each movie, we can have how much action it has, how long it is, and so on. For each user, we can encode how much they like action, or how much they like long movies, etc. Thus, we can combine the user and the movie embeddings to estimate the ratings on unseen movies. This approach can also be viewed as: given a matrix (A [M X N]) containing users and movies, we want to estimate low dimensional matrices (W [M X k] and H [M X k]), such that: A≈W.H<sup>T</sub>
-### 1.Matrix Factorisation based on Deep learning
-### 2. Matrix Factorisation based on Deep learning with non negative embeddings.
-### 3. Advanced neural network with different number of embeddings for both and movies.
+#### 1.Matrix Factorisation based on Deep learning
+#### 2. Matrix Factorisation based on Deep learning with non negative embeddings.
+#### 3. Advanced neural network with different number of embeddings for both and movies.
 
 
 ## Required Tools
