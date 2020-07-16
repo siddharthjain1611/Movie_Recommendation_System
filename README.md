@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
 
-## Data Set 
+## Data Set
 The data set used for this notebook is the 1M ratings data set from MovieLens. This contains 1M ratings of movies from 7120 movies and 14,025 Users. This data set includes:
 
 * **movieId**
@@ -12,7 +12,7 @@ In addition a data set of the movies includes the movie name and genres.
 * **title**
 * **genres**
 
-The dataset can be found here : https://github.com/Gurupradeep/Movie-Recommendation-System/tree/master/Dataset
+The dataset can be found here : https://github.com/siddharthjain1611/Movie_Recommendation_System/tree/master/Dataset
 
 ## Approaches Used :
 ### Non Personalised Recommendations
@@ -47,4 +47,3 @@ One popular recommender systems approach is called Matrix Factorisation. It work
 3. Numpy
 4. Pandas
 5. python 3
-
